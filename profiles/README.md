@@ -2,7 +2,9 @@
 
 ## Sodo project
 
-    [Design](https://www.figma.com/file/zA9eikUOZcNxeCD5sh43CX/Sourdough---Web-design-starter-kit-(Community))
+Sodo design -> [Link](https://www.figma.com/file/zA9eikUOZcNxeCD5sh43CX/)
+
+Kiril -> [Link](https://github.com/Kdudnik/sodo.git)
 
     P.S. add link to your project repository under the design
 ## Musik concert LP
