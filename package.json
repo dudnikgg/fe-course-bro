@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": " http-server"
+    "start": " http-server -c1 -t320"
   },
   "dependencies": {
     "http-server": "^14.1.1"
