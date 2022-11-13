@@ -1,5 +1,9 @@
 node_modules
-profiles
+profiles/**/**.*
 coverage
 !profiles/**/*.md
 !profiles/*.md
+
+# Students personal pages
+!profiles/kdudnik/
+!profiles/dudnikgg/
