@@ -63,6 +63,8 @@
 
 ---
 
+- https://en.bem.info/methodology/
+
 ## CSS preprocessors
 
 ---
@@ -76,6 +78,7 @@
 ---
 
 - https://uk.javascript.info/
+- [var/let/const](https://medium.com/@farazahmad0516/basic-javascript-javascript-for-beginners-part-1-1bbaff7b3124)
 
 ## Performance
 ---

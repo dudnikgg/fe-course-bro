@@ -1,4 +1,5 @@
 node_modules
 profiles
+coverage
 !profiles/**/*.md
 !profiles/*.md

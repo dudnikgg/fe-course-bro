@@ -1,8 +1,13 @@
 {
   "scripts": {
-    "start": " http-server -c1 -t320"
+    "start": "http-server -c1 -t5320",
+    "test": "jest --coverage profiles/"
   },
   "dependencies": {
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "jsdom": "^20.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
   }
 }
