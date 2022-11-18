@@ -1,4 +1,4 @@
-# Front-End course BRO!
+# Front-End course BRO
 
 ## Internet
 
@@ -56,14 +56,14 @@
 
 ---
 
-- https://www.youtube.com/watch?v=a1B3Rku-EyM
-- https://githowto.com/uk
+- <https://www.youtube.com/watch?v=a1B3Rku-EyM>
+- <https://githowto.com/uk>
 
 ## CSS architecture
 
 ---
 
-- https://en.bem.info/methodology/
+- <https://en.bem.info/methodology/>
 
 ## CSS preprocessors
 
@@ -77,11 +77,13 @@
 
 ---
 
-- https://uk.javascript.info/
+- <https://uk.javascript.info/>
 - [var/let/const](https://medium.com/@farazahmad0516/basic-javascript-javascript-for-beginners-part-1-1bbaff7b3124)
 
 ## Performance
+
 ---
+
 ## Web security
 
 ---
