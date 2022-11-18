@@ -1,13 +1,13 @@
 {
   "scripts": {
-    "start": "http-server -c1 -t5320",
-    "test": "jest --coverage profiles/"
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
+  "type": "module",
   "dependencies": {
-    "http-server": "^14.1.1",
-    "jsdom": "^20.0.0"
+    "jsdom": "^20.0.0",
+    "vite": "^3.2.4"
   },
-  "devDependencies": {
-    "jest": "^29.0.3"
-  }
+  "devDependencies": {}
 }
