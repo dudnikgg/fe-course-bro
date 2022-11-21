@@ -1,3 +1,6 @@
 [submodule "profiles/kdudnik/sodo"]
 	path = profiles/kdudnik/sodo
 	url = https://github.com/Kdudnik/sodo.git
+[submodule "profiles/dudnikgg/rating-component"]
+	path = profiles/dudnikgg/rating-component
+	url = https://github.com/dudnikgg/rating-component
